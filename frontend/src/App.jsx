@@ -80,7 +80,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>📝 Gestor de Tareas</h1>
+      <h1>Gestor de Tareas</h1>
       
       <Alert message={alert.message} type={alert.type} />
       
